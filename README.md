@@ -16,7 +16,6 @@ Sou Estudante Universitario com paixão por Tecnologia. Não tenho experiência 
 ## Certificações
 
 - Suporte em T.I do Google 2022.2
-- [Certificação 2]
 
 ## Contato
 
