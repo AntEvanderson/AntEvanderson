@@ -21,7 +21,7 @@ Sou um dos selecionados para DIO CAMPUS EXPERT 08, Onde Estudantes Universitario
 ## Contato
 
 - [Email](evanderson123@outlook.com)
-- [LinkedIn](www.linkedin.com/in/antonio-evanderson-de-melo-barros-436438270)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-evanderson-de-melo-barros-436438270/)
   
 ## Outros Interesses
 
