@@ -7,7 +7,7 @@ Sou um dos selecionados para DIO CAMPUS EXPERT 08, Onde Estudantes Universitario
 
 ## Habilidades Básicas
 
-- **Linguagens de Programação**: Python, Sql, C++
+- **Linguagens**: HTML, CSS, JAVASCRIPT
 
 
 ## Educação
