@@ -5,11 +5,6 @@
 Sou Estudante Universitario com paixão por Tecnologia. Não tenho experiência não tenho experiência como programador/Dev, Tenho interesse em Desenvolvimento Web.
 Sou um dos selecionados para DIO CAMPUS EXPERT 08, Onde Estudantes Universitarios se torna embaixador da Plaraforma DIO.
 
-## Habilidades Básicas
-
-- **Linguagens**: HTML, CSS, JAVASCRIPT
-
-
 ## Educação
 
 - Tecnologo Em Análise e Desenvolvimento de Sistemas, Faculdade CDL, 2023
